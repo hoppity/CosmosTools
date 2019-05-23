@@ -1,14 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds">
+  <component name="ChangeListManager">
+    <list default="true" id="7e89cda2-fa2d-454f-b012-3504cc64ae71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CosmosRestore/CosmosRestore.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CosmosRestore/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmosTools/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmosTools/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CosmosTools/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CosmosTools/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmosDump/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CosmosDump/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CosmosTools.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CosmosTools.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-519552199">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+          <entry key="json" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+          <entry key="JSON" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2117" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CosmosDump/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="26" column="67" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="67" />
+              <folding>
+                <marker date="1558612354895" expanded="false" signature="6:256" ph="..." />
+                <marker date="1558612354895" expanded="true" signature="278:3243" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="305:3241" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="320:436" ph="/* ReSharper disable once ClassNeverInstantiated.Local ... */" />
+                <marker date="1558612354895" expanded="true" signature="466:1237" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="1246:1369" ph="/* ReSharper restore UnusedAutoPropertyAccessor.Local ... */" />
+                <marker date="1558612354895" expanded="true" signature="1409:1757" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="1509:1745" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="1881:3235" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="2341:2436" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="2588:3225" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="2684:3103" ph="{...}" />
+                <marker date="1558612354895" expanded="true" signature="2820:2971" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CosmosRestore/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+              <folding>
+                <marker date="1558612341822" expanded="true" signature="6:301" ph="..." />
+                <marker date="1558612341822" expanded="true" signature="326:6679" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="353:6677" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="368:484" ph="/* ReSharper disable once ClassNeverInstantiated.Local ... */" />
+                <marker date="1558612341822" expanded="true" signature="514:1278" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="1287:1410" ph="/* ReSharper restore UnusedAutoPropertyAccessor.Local ... */" />
+                <marker date="1558612341822" expanded="true" signature="1450:2046" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="1550:2034" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="1773:1930" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="3122:3216" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="3575:4222" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="3633:4208" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="3723:3955" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="4459:6671" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="4780:6494" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="4898:5897" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="5017:5545" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="5570:5879" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="5660:5808" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="5941:6480" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="6060:6177" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="6202:6462" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="6292:6440" ph="{...}" />
+                <marker date="1558612341822" expanded="true" signature="6574:6631" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>first</find>
+      <find>partition</find>
+      <find>id</find>
+      <find>self</find>
+      <find>_rid</find>
+      <find>isku</find>
+      <find>return</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CosmosDump/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CosmosRestore/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CosmosDump/CompletedDeployments.json" />
+        <option value="$PROJECT_DIR$/CosmosRestore/Program.cs" />
+        <option value="$PROJECT_DIR$/CosmosDump/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="804" />
+    <option name="width" value="1920" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CosmosTools" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CosmosTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CosmosDump" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CosmosTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CosmosRestore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CosmosTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CosmosRestore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CosmosTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CosmosRestore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CosmosTools" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CosmosRestore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -29,5 +237,156 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e89cda2-fa2d-454f-b012-3504cc64ae71" name="Default Changelist" comment="" />
+      <created>1558433406991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558433406991</updated>
+      <workItem from="1558433409252" duration="1275000" />
+      <workItem from="1558492234203" duration="9950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11225000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="806" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49928468" weight="0.32913166" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49928468" visible="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5007153" side_tool="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.26050422" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CosmosDump/Notifications.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="124">
+          <caret line="132" column="235906" selection-start-line="132" selection-start-column="235902" selection-end-line="132" selection-end-column="235906" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmosDump/CompletedDeployments-2.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="16">
+          <caret line="1" column="24733" selection-start-line="1" selection-start-column="24729" selection-end-line="1" selection-end-column="24733" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmosDump/CompletedDeployments.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret column="12566" lean-forward="true" selection-start-column="12566" selection-end-column="12566" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmosRestore/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding>
+            <marker date="1558612341822" expanded="true" signature="6:301" ph="..." />
+            <marker date="1558612341822" expanded="true" signature="326:6679" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="353:6677" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="368:484" ph="/* ReSharper disable once ClassNeverInstantiated.Local ... */" />
+            <marker date="1558612341822" expanded="true" signature="514:1278" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="1287:1410" ph="/* ReSharper restore UnusedAutoPropertyAccessor.Local ... */" />
+            <marker date="1558612341822" expanded="true" signature="1450:2046" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="1550:2034" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="1773:1930" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="3122:3216" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="3575:4222" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="3633:4208" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="3723:3955" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="4459:6671" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="4780:6494" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="4898:5897" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="5017:5545" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="5570:5879" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="5660:5808" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="5941:6480" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="6060:6177" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="6202:6462" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="6292:6440" ph="{...}" />
+            <marker date="1558612341822" expanded="true" signature="6574:6631" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CosmosDump/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="67" />
+          <folding>
+            <marker date="1558612354895" expanded="false" signature="6:256" ph="..." />
+            <marker date="1558612354895" expanded="true" signature="278:3243" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="305:3241" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="320:436" ph="/* ReSharper disable once ClassNeverInstantiated.Local ... */" />
+            <marker date="1558612354895" expanded="true" signature="466:1237" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="1246:1369" ph="/* ReSharper restore UnusedAutoPropertyAccessor.Local ... */" />
+            <marker date="1558612354895" expanded="true" signature="1409:1757" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="1509:1745" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="1881:3235" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="2341:2436" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="2588:3225" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="2684:3103" ph="{...}" />
+            <marker date="1558612354895" expanded="true" signature="2820:2971" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
